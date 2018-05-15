@@ -12,3 +12,4 @@ Welcome to doc-example's documentation!
 
    feature-a
    feature-bananas
+   feature-clementines
